@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Model1.Clients" />
+    <EntitySet Name="Products" EntityType="Model1.Products" />
+    <EntitySet Name="Orders" EntityType="Model1.Orders" />
+    <AssociationSet Name="ProductsOrders" Association="Model1.ProductsOrders">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="ClientsOrders" Association="Model1.ClientsOrders">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="Id_Client" />
+    </Key>
+    <Property Name="Id_Client" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="String" Nullable="false" />
+    <Property Name="Address" Type="String" Nullable="false" />
+    <Property Name="Phone" Type="String" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Model1.ClientsOrders" FromRole="Clients" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Id_Product" />
+    </Key>
+    <Property Name="Id_Product" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" Nullable="false" />
+    <Property Name="UnitPrice" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Model1.ProductsOrders" FromRole="Products" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id_Order" />
+    </Key>
+    <Property Name="Id_Order" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Client" Type="Int32" Nullable="false" />
+    <Property Name="Product" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Model1.ProductsOrders" FromRole="Orders" ToRole="Products" />
+    <NavigationProperty Name="Clients" Relationship="Model1.ClientsOrders" FromRole="Orders" ToRole="Clients" />
+  </EntityType>
+  <Association Name="ProductsOrders">
+    <End Type="Model1.Products" Role="Products" Multiplicity="1" />
+    <End Type="Model1.Orders" Role="Orders" Multiplicity="*" />
+  </Association>
+  <Association Name="ClientsOrders">
+    <End Type="Model1.Clients" Role="Clients" Multiplicity="1" />
+    <End Type="Model1.Orders" Role="Orders" Multiplicity="*" />
+  </Association>
+</Schema>

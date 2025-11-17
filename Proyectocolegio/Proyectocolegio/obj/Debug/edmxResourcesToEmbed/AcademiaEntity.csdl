@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AcademiaDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Alumno">
+    <Key>
+      <PropertyRef Name="AlumnoId" />
+    </Key>
+    <Property Name="AlumnoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DNI" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Edad" Type="Int32" Nullable="false" />
+    <Property Name="EmpresaId" Type="Int32" />
+    <NavigationProperty Name="Empresa" Relationship="Self.FK_Alumno_Empresa" FromRole="Alumno" ToRole="Empresa" />
+    <NavigationProperty Name="Notas" Relationship="Self.FK_Nota_Alumno" FromRole="Alumno" ToRole="Nota" />
+  </EntityType>
+  <EntityType Name="Curso">
+    <Key>
+      <PropertyRef Name="CursoId" />
+    </Key>
+    <Property Name="CursoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Codigo" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Programa" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Horas" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Imparticions" Relationship="Self.FK_Imparticion_Curso" FromRole="Curso" ToRole="Imparticion" />
+  </EntityType>
+  <EntityType Name="Empresa">
+    <Key>
+      <PropertyRef Name="EmpresaId" />
+    </Key>
+    <Property Name="EmpresaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CIF" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Alumnoes" Relationship="Self.FK_Alumno_Empresa" FromRole="Empresa" ToRole="Alumno" />
+  </EntityType>
+  <EntityType Name="Imparticion">
+    <Key>
+      <PropertyRef Name="ImparticionId" />
+    </Key>
+    <Property Name="ImparticionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Numero" Type="Int32" Nullable="false" />
+    <Property Name="FechaInicio" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="FechaFin" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CursoId" Type="Int32" Nullable="false" />
+    <Property Name="ProfesorId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Curso" Relationship="Self.FK_Imparticion_Curso" FromRole="Imparticion" ToRole="Curso" />
+    <NavigationProperty Name="Profesor" Relationship="Self.FK_Imparticion_Profesor" FromRole="Imparticion" ToRole="Profesor" />
+    <NavigationProperty Name="Notas" Relationship="Self.FK_Nota_Imparticion" FromRole="Imparticion" ToRole="Nota" />
+  </EntityType>
+  <EntityType Name="Nota">
+    <Key>
+      <PropertyRef Name="NotaId" />
+    </Key>
+    <Property Name="NotaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Valor" Type="Decimal" Precision="5" Scale="2" Nullable="false" />
+    <Property Name="AlumnoId" Type="Int32" Nullable="false" />
+    <Property Name="ImparticionId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Alumno" Relationship="Self.FK_Nota_Alumno" FromRole="Nota" ToRole="Alumno" />
+    <NavigationProperty Name="Imparticion" Relationship="Self.FK_Nota_Imparticion" FromRole="Nota" ToRole="Imparticion" />
+  </EntityType>
+  <EntityType Name="Profesor">
+    <Key>
+      <PropertyRef Name="ProfesorId" />
+    </Key>
+    <Property Name="ProfesorId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DNI" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Imparticions" Relationship="Self.FK_Imparticion_Profesor" FromRole="Profesor" ToRole="Imparticion" />
+  </EntityType>
+  <Association Name="FK_Alumno_Empresa">
+    <End Role="Empresa" Type="Self.Empresa" Multiplicity="0..1" />
+    <End Role="Alumno" Type="Self.Alumno" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empresa">
+        <PropertyRef Name="EmpresaId" />
+      </Principal>
+      <Dependent Role="Alumno">
+        <PropertyRef Name="EmpresaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Nota_Alumno">
+    <End Role="Alumno" Type="Self.Alumno" Multiplicity="1" />
+    <End Role="Nota" Type="Self.Nota" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumno">
+        <PropertyRef Name="AlumnoId" />
+      </Principal>
+      <Dependent Role="Nota">
+        <PropertyRef Name="AlumnoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Imparticion_Curso">
+    <End Role="Curso" Type="Self.Curso" Multiplicity="1" />
+    <End Role="Imparticion" Type="Self.Imparticion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curso">
+        <PropertyRef Name="CursoId" />
+      </Principal>
+      <Dependent Role="Imparticion">
+        <PropertyRef Name="CursoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Imparticion_Profesor">
+    <End Role="Profesor" Type="Self.Profesor" Multiplicity="1" />
+    <End Role="Imparticion" Type="Self.Imparticion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profesor">
+        <PropertyRef Name="ProfesorId" />
+      </Principal>
+      <Dependent Role="Imparticion">
+        <PropertyRef Name="ProfesorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Nota_Imparticion">
+    <End Role="Imparticion" Type="Self.Imparticion" Multiplicity="1" />
+    <End Role="Nota" Type="Self.Nota" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Imparticion">
+        <PropertyRef Name="ImparticionId" />
+      </Principal>
+      <Dependent Role="Nota">
+        <PropertyRef Name="ImparticionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AcademiaDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Alumnoes" EntityType="Self.Alumno" />
+    <EntitySet Name="Cursoes" EntityType="Self.Curso" />
+    <EntitySet Name="Empresas" EntityType="Self.Empresa" />
+    <EntitySet Name="Imparticions" EntityType="Self.Imparticion" />
+    <EntitySet Name="Notas" EntityType="Self.Nota" />
+    <EntitySet Name="Profesors" EntityType="Self.Profesor" />
+    <AssociationSet Name="FK_Alumno_Empresa" Association="Self.FK_Alumno_Empresa">
+      <End Role="Empresa" EntitySet="Empresas" />
+      <End Role="Alumno" EntitySet="Alumnoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Nota_Alumno" Association="Self.FK_Nota_Alumno">
+      <End Role="Alumno" EntitySet="Alumnoes" />
+      <End Role="Nota" EntitySet="Notas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Imparticion_Curso" Association="Self.FK_Imparticion_Curso">
+      <End Role="Curso" EntitySet="Cursoes" />
+      <End Role="Imparticion" EntitySet="Imparticions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Imparticion_Profesor" Association="Self.FK_Imparticion_Profesor">
+      <End Role="Profesor" EntitySet="Profesors" />
+      <End Role="Imparticion" EntitySet="Imparticions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Nota_Imparticion" Association="Self.FK_Nota_Imparticion">
+      <End Role="Imparticion" EntitySet="Imparticions" />
+      <End Role="Nota" EntitySet="Notas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

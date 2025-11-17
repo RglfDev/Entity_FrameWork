@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\data\\aicolaboracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\data\\aicolaboracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\models\\aiproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\models\\aiproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\models\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\models\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\models\\especializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\models\\especializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\models\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\models\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialartificial\\redsocialartificial\\models\\proyectocolaborativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE488229-8A49-4E90-AD1F-317D24CA0904}|RedSocialArtificial\\RedSocialArtificial.csproj|solutionrelative:redsocialartificial\\models\\proyectocolaborativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AIColabDatabase/True/SqlTable/dbo.AIs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Migrations\\20251104162218_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RedSocialArtificial\\Migrations\\20251104162218_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryEF.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Repositories\\RepositoryEF.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Repositories\\RepositoryEF.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Repositories\\RepositoryEF.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Repositories\\RepositoryEF.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:22:15.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:22:01.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIColaboraContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Data\\AIColaboraContext.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Data\\AIColaboraContext.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Data\\AIColaboraContext.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Data\\AIColaboraContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:05:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AIProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\AIProyecto.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Models\\AIProyecto.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\AIProyecto.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Models\\AIProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:01:39.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Especializacion.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\Especializacion.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Models\\Especializacion.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\Especializacion.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Models\\Especializacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:01:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\Mensaje.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Models\\Mensaje.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\Mensaje.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Models\\Mensaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:01:26.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\Dataset.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Models\\Dataset.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\Dataset.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Models\\Dataset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:46:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Program.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Program.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:08:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectoColaborativo.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\ProyectoColaborativo.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Models\\ProyectoColaborativo.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Models\\ProyectoColaborativo.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Models\\ProyectoColaborativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:46:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.AIs [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AIColabDatabase/True/SqlTable/dbo.AIs.sql",
+              "ToolTip": "dbo.AIs [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-04T16:23:12.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251104162218_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Migrations\\20251104162218_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RedSocialArtificial\\Migrations\\20251104162218_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialArtificial\\RedSocialArtificial\\Migrations\\20251104162218_InitialCreate.cs",
+              "RelativeToolTip": "RedSocialArtificial\\Migrations\\20251104162218_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:22:19.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

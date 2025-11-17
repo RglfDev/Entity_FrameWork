@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE77FF6-38B1-47F0-8898-5B49F9C5430C}|RedSocialIA\\RedSocialIA.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\redsocialia\\redsocialia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE77FF6-38B1-47F0-8898-5B49F9C5430C}|RedSocialIA\\RedSocialIA.csproj|solutionrelative:redsocialia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.DatasetProyectoColaborativo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.Datasets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.AIs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.Mensajes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.DatasetProyectoColaborativo [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.DatasetProyectoColaborativo.sql",
+              "ToolTip": "dbo.DatasetProyectoColaborativo [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T11:21:54.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Datasets [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.Datasets.sql",
+              "ToolTip": "dbo.Datasets [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T11:21:45.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Mensajes [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.Mensajes.sql",
+              "ToolTip": "dbo.Mensajes [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T11:15:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AIs [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCodeRedSocialIA/True/SqlTable/dbo.AIs.sql",
+              "ToolTip": "dbo.AIs [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T11:15:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialIA\\RedSocialIA\\Program.cs",
+              "RelativeDocumentMoniker": "RedSocialIA\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\RedSocialIA\\RedSocialIA\\Program.cs*",
+              "RelativeToolTip": "RedSocialIA\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wJIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:01:31.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

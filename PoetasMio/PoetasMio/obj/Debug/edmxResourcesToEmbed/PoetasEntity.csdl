@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PoetasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Meter">
+    <Key>
+      <PropertyRef Name="MeterId" />
+    </Key>
+    <Property Name="MeterId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MeterName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Poems" Relationship="Self.FK_Poem_Meter" FromRole="Meter" ToRole="Poem" />
+  </EntityType>
+  <EntityType Name="Poem">
+    <Key>
+      <PropertyRef Name="PoemId" />
+    </Key>
+    <Property Name="PoemId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PoetId" Type="Int32" />
+    <Property Name="Title" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MeterId" Type="Int32" />
+    <NavigationProperty Name="Meter" Relationship="Self.FK_Poem_Meter" FromRole="Poem" ToRole="Meter" />
+    <NavigationProperty Name="Poet" Relationship="Self.FK_Poem_Poet" FromRole="Poem" ToRole="Poet" />
+  </EntityType>
+  <EntityType Name="Poet">
+    <Key>
+      <PropertyRef Name="PoetId" />
+    </Key>
+    <Property Name="PoetId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MiddleName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Poems" Relationship="Self.FK_Poem_Poet" FromRole="Poet" ToRole="Poem" />
+  </EntityType>
+  <Association Name="FK_Poem_Meter">
+    <End Role="Meter" Type="Self.Meter" Multiplicity="0..1" />
+    <End Role="Poem" Type="Self.Poem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Meter">
+        <PropertyRef Name="MeterId" />
+      </Principal>
+      <Dependent Role="Poem">
+        <PropertyRef Name="MeterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Poem_Poet">
+    <End Role="Poet" Type="Self.Poet" Multiplicity="0..1" />
+    <End Role="Poem" Type="Self.Poem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Poet">
+        <PropertyRef Name="PoetId" />
+      </Principal>
+      <Dependent Role="Poem">
+        <PropertyRef Name="PoetId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PoetasEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Meters" EntityType="Self.Meter" />
+    <EntitySet Name="Poems" EntityType="Self.Poem" />
+    <EntitySet Name="Poets" EntityType="Self.Poet" />
+    <AssociationSet Name="FK_Poem_Meter" Association="Self.FK_Poem_Meter">
+      <End Role="Meter" EntitySet="Meters" />
+      <End Role="Poem" EntitySet="Poems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Poem_Poet" Association="Self.FK_Poem_Poet">
+      <End Role="Poet" EntitySet="Poets" />
+      <End Role="Poem" EntitySet="Poems" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

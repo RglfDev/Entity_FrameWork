@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PoetasModelStoreContainer" CdmEntityContainer="PoetasEntities">
+    <EntitySetMapping Name="Meters">
+      <EntityTypeMapping TypeName="PoetasModel.Meter">
+        <MappingFragment StoreEntitySet="Meter">
+          <ScalarProperty Name="MeterId" ColumnName="MeterId" />
+          <ScalarProperty Name="MeterName" ColumnName="MeterName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Poems">
+      <EntityTypeMapping TypeName="PoetasModel.Poem">
+        <MappingFragment StoreEntitySet="Poem">
+          <ScalarProperty Name="PoemId" ColumnName="PoemId" />
+          <ScalarProperty Name="PoetId" ColumnName="PoetId" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="MeterId" ColumnName="MeterId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Poets">
+      <EntityTypeMapping TypeName="PoetasModel.Poet">
+        <MappingFragment StoreEntitySet="Poet">
+          <ScalarProperty Name="PoetId" ColumnName="PoetId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

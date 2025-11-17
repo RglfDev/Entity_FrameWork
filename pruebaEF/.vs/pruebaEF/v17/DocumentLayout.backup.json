@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\pruebaef\\pruebaef\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{BBDB05CD-B1E4-4D61-B9E9-8A4A84E129A7}|pruebaEF\\pruebaEF.csproj|solutionrelative:pruebaef\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Clients.cs",
+              "RelativeDocumentMoniker": "pruebaEF\\Clients.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Clients.cs",
+              "RelativeToolTip": "pruebaEF\\Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:13:53.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Orders.cs",
+              "RelativeDocumentMoniker": "pruebaEF\\Orders.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Orders.cs",
+              "RelativeToolTip": "pruebaEF\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:12:03.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Products.cs",
+              "RelativeDocumentMoniker": "pruebaEF\\Products.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Products.cs",
+              "RelativeToolTip": "pruebaEF\\Products.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:11:39.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx.sql ",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Model1.edmx.sql",
+              "RelativeDocumentMoniker": "pruebaEF\\Model1.edmx.sql",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Model1.edmx.sql",
+              "RelativeToolTip": "pruebaEF\\Model1.edmx.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-30T10:38:42.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Model1.edmx",
+              "RelativeDocumentMoniker": "pruebaEF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "pruebaEF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-30T10:21:54.77Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Program.cs",
+              "RelativeDocumentMoniker": "pruebaEF\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\pruebaEF\\pruebaEF\\Program.cs*",
+              "RelativeToolTip": "pruebaEF\\Program.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwG4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:20:18.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

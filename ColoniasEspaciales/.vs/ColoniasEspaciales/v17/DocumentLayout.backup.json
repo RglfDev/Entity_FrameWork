@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Migrations\\20251104173112_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ColoniasEspaciales\\Migrations\\20251104173112_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\data\\coloniascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\data\\coloniascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\models\\recurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\models\\recurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\models\\coloniarecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\models\\coloniarecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\models\\habitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\models\\habitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\models\\colonia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\models\\colonia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\coloniasespaciales\\coloniasespaciales\\models\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD3204-AC77-4E26-AF93-20CCC4179038}|ColoniasEspaciales\\ColoniasEspaciales.csproj|solutionrelative:coloniasespaciales\\models\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251104173112_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Migrations\\20251104173112_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Migrations\\20251104173112_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Migrations\\20251104173112_InitialCreate.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Migrations\\20251104173112_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:31:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:21:40.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColoniasContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Data\\ColoniasContext.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Data\\ColoniasContext.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Data\\ColoniasContext.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Data\\ColoniasContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:04:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recurso.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Recurso.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Models\\Recurso.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Recurso.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Models\\Recurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:56:21.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Evento.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:42:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColoniaRecurso.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\ColoniaRecurso.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Models\\ColoniaRecurso.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\ColoniaRecurso.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Models\\ColoniaRecurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:41:50.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Habitante.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Habitante.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Models\\Habitante.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Habitante.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Models\\Habitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:41:28.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Colonia.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Colonia.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Models\\Colonia.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Colonia.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Models\\Colonia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:41:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Program.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Program.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:36:44.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryEF.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Repositories\\RepositoryEF.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Repositories\\RepositoryEF.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Repositories\\RepositoryEF.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Repositories\\RepositoryEF.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:21:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Planeta.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Planeta.cs",
+              "RelativeDocumentMoniker": "ColoniasEspaciales\\Models\\Planeta.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ColoniasEspaciales\\ColoniasEspaciales\\Models\\Planeta.cs",
+              "RelativeToolTip": "ColoniasEspaciales\\Models\\Planeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:40:50.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

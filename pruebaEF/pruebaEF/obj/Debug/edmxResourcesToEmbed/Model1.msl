@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model1StoreContainer" CdmEntityContainer="Model1Container">
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Clients)">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="Id_Client" ColumnName="Id_Client" />
+          <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Products)">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="Id_Product" ColumnName="Id_Product" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Orders)">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="Id_Order" ColumnName="Id_Order" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Client" ColumnName="Client" />
+          <ScalarProperty Name="Product" ColumnName="Product" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="ProductsOrders" TypeName="Model1.ProductsOrders" StoreEntitySet="Orders">
+      <EndProperty Name="Products">
+        <ScalarProperty Name="Id_Product" ColumnName="Products_Id_Product" />
+      </EndProperty>
+      <EndProperty Name="Orders">
+        <ScalarProperty Name="Id_Order" ColumnName="Id_Order" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="ClientsOrders" TypeName="Model1.ClientsOrders" StoreEntitySet="Orders">
+      <EndProperty Name="Clients">
+        <ScalarProperty Name="Id_Client" ColumnName="Clients_Id_Client" />
+      </EndProperty>
+      <EndProperty Name="Orders">
+        <ScalarProperty Name="Id_Order" ColumnName="Id_Order" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

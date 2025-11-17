@@ -1,0 +1,13 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\AcademyDb.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\AcademyDb.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\AcademyDb.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\EntityFramework.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\EntityFramework.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\obj\Debug\AcademyDb.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\obj\Debug\AcademyDb.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\obj\Debug\AcademyDb.csproj.Up2Date
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\obj\Debug\AcademyDb.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\obj\Debug\AcademyDb.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AcademyDb\AcademyDb\obj\Debug\AcademyDb.exe.config

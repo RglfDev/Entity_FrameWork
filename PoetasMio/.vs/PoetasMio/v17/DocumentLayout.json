@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\poetasmio\\poetasmio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|solutionrelative:poetasmio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\poetasmio\\poetasmio\\poetasentity.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|solutionrelative:poetasmio\\poetasentity.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\poetasmio\\poetasmio\\poetasentity.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|solutionrelative:poetasmio\\poetasentity.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\poetasmio\\poetasmio\\poet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|solutionrelative:poetasmio\\poet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\poetasmio\\poetasmio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|solutionrelative:poetasmio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\poetasmio\\poetasmio\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2E015-3DC0-47D9-A0C9-84C533A36DF5}|PoetasMio\\PoetasMio.csproj|solutionrelative:poetasmio\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\App.config",
+              "RelativeDocumentMoniker": "PoetasMio\\App.config",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\App.config",
+              "RelativeToolTip": "PoetasMio\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-02T10:34:33.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoetasEntity.Context.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\PoetasEntity.Context.cs",
+              "RelativeDocumentMoniker": "PoetasMio\\PoetasEntity.Context.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\PoetasEntity.Context.cs",
+              "RelativeToolTip": "PoetasMio\\PoetasEntity.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:17:47.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Poet.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\Poet.cs",
+              "RelativeDocumentMoniker": "PoetasMio\\Poet.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\Poet.cs",
+              "RelativeToolTip": "PoetasMio\\Poet.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:09:00.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meter.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\Meter.cs",
+              "RelativeDocumentMoniker": "PoetasMio\\Meter.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\Meter.cs",
+              "RelativeToolTip": "PoetasMio\\Meter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:04:43.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoetasEntity.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\PoetasEntity.edmx",
+              "RelativeDocumentMoniker": "PoetasMio\\PoetasEntity.edmx",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\PoetasEntity.edmx [Diagram1]",
+              "RelativeToolTip": "PoetasMio\\PoetasEntity.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-02T10:01:19.166Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\Program.cs",
+              "RelativeDocumentMoniker": "PoetasMio\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PoetasMio\\PoetasMio\\Program.cs",
+              "RelativeToolTip": "PoetasMio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:59:17.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

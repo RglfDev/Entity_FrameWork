@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\data\\sheltercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\data\\sheltercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\models\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\models\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\models\\adopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\models\\adopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\primerefasincronia\\primerefasincronia\\migrations\\20251103161413_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6C152-F2F8-45A6-8519-9C50684A84BA}|PrimerEFAsincronia\\PrimerEFAsincronia.csproj|solutionrelative:primerefasincronia\\migrations\\20251103161413_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251103161413_M1.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Migrations\\20251103161413_M1.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Migrations\\20251103161413_M1.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Migrations\\20251103161413_M1.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Migrations\\20251103161413_M1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:14:14.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Program.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:58:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryEF.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Repositories\\RepositoryEF.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Repositories\\RepositoryEF.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Repositories\\RepositoryEF.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Repositories\\RepositoryEF.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:22:17.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:07:32.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShelterContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Data\\ShelterContext.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Data\\ShelterContext.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Data\\ShelterContext.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Data\\ShelterContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:18:20.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adoption.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Models\\Adoption.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Models\\Adoption.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Models\\Adoption.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Models\\Adoption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:13:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Adopter.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Models\\Adopter.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Models\\Adopter.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Models\\Adopter.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Models\\Adopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:12:03.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "PrimerEFAsincronia\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\PrimerEFAsincronia\\PrimerEFAsincronia\\Models\\Animal.cs",
+              "RelativeToolTip": "PrimerEFAsincronia\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:09:35.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

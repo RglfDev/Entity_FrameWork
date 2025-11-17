@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D412D7-5863-44D1-B968-7D4CDAF6223F}|ReservaHoteles\\ReservaHoteles.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\reservahoteles\\reservahoteles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D412D7-5863-44D1-B968-7D4CDAF6223F}|ReservaHoteles\\ReservaHoteles.csproj|solutionrelative:reservahoteles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D412D7-5863-44D1-B968-7D4CDAF6223F}|ReservaHoteles\\ReservaHoteles.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\reservahoteles\\reservahoteles\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D412D7-5863-44D1-B968-7D4CDAF6223F}|ReservaHoteles\\ReservaHoteles.csproj|solutionrelative:reservahoteles\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D412D7-5863-44D1-B968-7D4CDAF6223F}|ReservaHoteles\\ReservaHoteles.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\reservahoteles\\reservahoteles\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D412D7-5863-44D1-B968-7D4CDAF6223F}|ReservaHoteles\\ReservaHoteles.csproj|solutionrelative:reservahoteles\\repositories\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryEF.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\ReservaHoteles\\Repositories\\RepositoryEF.cs",
+              "RelativeDocumentMoniker": "ReservaHoteles\\Repositories\\RepositoryEF.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\ReservaHoteles\\Repositories\\RepositoryEF.cs",
+              "RelativeToolTip": "ReservaHoteles\\Repositories\\RepositoryEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:55:25.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\ReservaHoteles\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ReservaHoteles\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\ReservaHoteles\\Models\\Cliente.cs",
+              "RelativeToolTip": "ReservaHoteles\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:54:09.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\ReservaHoteles\\Program.cs",
+              "RelativeDocumentMoniker": "ReservaHoteles\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\ReservaHoteles\\ReservaHoteles\\Program.cs",
+              "RelativeToolTip": "ReservaHoteles\\Program.cs",
+              "ViewState": "AgIAANQBAAAAAAAAAAAmwNsBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:13:26.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

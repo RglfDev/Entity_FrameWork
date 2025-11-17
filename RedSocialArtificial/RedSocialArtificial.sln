@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocialArtificial", "RedSocialArtificial\RedSocialArtificial.csproj", "{CE488229-8A49-4E90-AD1F-317D24CA0904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE488229-8A49-4E90-AD1F-317D24CA0904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE488229-8A49-4E90-AD1F-317D24CA0904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE488229-8A49-4E90-AD1F-317D24CA0904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE488229-8A49-4E90-AD1F-317D24CA0904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4D4FF8-7460-4A37-98E7-04B5433AB1E8}
+	EndGlobalSection
+EndGlobal

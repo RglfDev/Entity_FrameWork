@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\academyentity.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\academyentity.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\academyentity.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\academyentity.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\academyentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\academyentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\entityframework\\academydb\\academydb\\academyentity.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA3ADCB-AF04-4112-9E44-9D35DB183FF1}|AcademyDb\\AcademyDb.csproj|solutionrelative:academydb\\academyentity.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Student.cs",
+              "RelativeDocumentMoniker": "AcademyDb\\Student.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Student.cs",
+              "RelativeToolTip": "AcademyDb\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:25:25.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Enrollment.cs",
+              "RelativeDocumentMoniker": "AcademyDb\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Enrollment.cs",
+              "RelativeToolTip": "AcademyDb\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:25:24.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Course.cs",
+              "RelativeDocumentMoniker": "AcademyDb\\Course.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Course.cs",
+              "RelativeToolTip": "AcademyDb\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:25:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\App.config",
+              "RelativeDocumentMoniker": "AcademyDb\\App.config",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\App.config",
+              "RelativeToolTip": "AcademyDb\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-02T11:25:18.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcademyEntity.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.edmx",
+              "RelativeDocumentMoniker": "AcademyDb\\AcademyEntity.edmx",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.edmx [Diagram1]",
+              "RelativeToolTip": "AcademyDb\\AcademyEntity.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-02T11:25:15.253Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcademyEntity.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.edmx.diagram",
+              "RelativeDocumentMoniker": "AcademyDb\\AcademyEntity.edmx.diagram",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.edmx.diagram",
+              "RelativeToolTip": "AcademyDb\\AcademyEntity.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-02T11:25:08.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AcademyEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.Designer.cs",
+              "RelativeDocumentMoniker": "AcademyDb\\AcademyEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.Designer.cs",
+              "RelativeToolTip": "AcademyDb\\AcademyEntity.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:25:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyDb\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\Program.cs",
+              "RelativeToolTip": "AcademyDb\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:22:20.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcademyEntity.Context.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.Context.cs",
+              "RelativeDocumentMoniker": "AcademyDb\\AcademyEntity.Context.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\EntityFrameWork\\AcademyDb\\AcademyDb\\AcademyEntity.Context.cs",
+              "RelativeToolTip": "AcademyDb\\AcademyEntity.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:24:57.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

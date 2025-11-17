@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fb8d58655728447883df8cdf70cca24d" Name="Diagram1">
+        <EntityTypeShape EntityType="AcademiaDBModel.Alumno" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademiaDBModel.Curso" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademiaDBModel.Empresa" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademiaDBModel.Imparticion" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademiaDBModel.Nota" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademiaDBModel.Profesor" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <AssociationConnector Association="AcademiaDBModel.FK_Alumno_Empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademiaDBModel.FK_Nota_Alumno" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademiaDBModel.FK_Imparticion_Curso" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademiaDBModel.FK_Imparticion_Profesor" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademiaDBModel.FK_Nota_Imparticion" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

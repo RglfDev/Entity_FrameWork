@@ -1,0 +1,13 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\PoetasMio.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\PoetasMio.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\PoetasMio.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\EntityFramework.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\EntityFramework.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\obj\Debug\PoetasMio.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\obj\Debug\PoetasMio.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\obj\Debug\PoetasMio.csproj.Up2Date
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\obj\Debug\PoetasMio.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\obj\Debug\PoetasMio.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\PoetasMio\PoetasMio\obj\Debug\PoetasMio.exe.config

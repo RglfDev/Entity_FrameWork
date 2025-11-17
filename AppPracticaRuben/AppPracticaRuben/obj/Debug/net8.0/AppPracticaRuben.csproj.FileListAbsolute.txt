@@ -1,0 +1,14 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\bin\Debug\net8.0\AppPracticaRuben.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\bin\Debug\net8.0\AppPracticaRuben.deps.json
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\bin\Debug\net8.0\AppPracticaRuben.runtimeconfig.json
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\bin\Debug\net8.0\AppPracticaRuben.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\bin\Debug\net8.0\AppPracticaRuben.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.AssemblyInfoInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.AssemblyInfo.cs
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\refint\AppPracticaRuben.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\AppPracticaRuben.genruntimeconfig.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\AppPracticaRuben\AppPracticaRuben\obj\Debug\net8.0\ref\AppPracticaRuben.dll

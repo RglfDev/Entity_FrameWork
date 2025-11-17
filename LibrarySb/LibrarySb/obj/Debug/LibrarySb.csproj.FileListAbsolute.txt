@@ -1,0 +1,13 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\LibrarySb.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\LibrarySb.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\LibrarySb.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\EntityFramework.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\EntityFramework.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\obj\Debug\LibrarySb.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\obj\Debug\LibrarySb.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\obj\Debug\LibrarySb.csproj.Up2Date
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\obj\Debug\LibrarySb.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\obj\Debug\LibrarySb.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\LibrarySb\LibrarySb\obj\Debug\LibrarySb.exe.config

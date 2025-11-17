@@ -1,0 +1,13 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\Proyectocolegio.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\Proyectocolegio.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\Proyectocolegio.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\EntityFramework.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\EntityFramework.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\obj\Debug\Proyectocolegio.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\obj\Debug\Proyectocolegio.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\obj\Debug\Proyecto.F7861E02.Up2Date
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\obj\Debug\Proyectocolegio.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\obj\Debug\Proyectocolegio.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\Proyectocolegio\Proyectocolegio\obj\Debug\Proyectocolegio.exe.config

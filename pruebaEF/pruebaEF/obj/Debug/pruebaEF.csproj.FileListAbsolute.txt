@@ -1,0 +1,13 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\pruebaEF.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\pruebaEF.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\pruebaEF.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\EntityFramework.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\EntityFramework.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\obj\Debug\pruebaEF.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\obj\Debug\pruebaEF.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\obj\Debug\pruebaEF.csproj.Up2Date
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\obj\Debug\pruebaEF.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\obj\Debug\pruebaEF.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\EntityFrameWork\pruebaEF\pruebaEF\obj\Debug\pruebaEF.exe.config
